@@ -22,3 +22,8 @@ Allowed commands :
 ⚠️ The program doesn't treat any other symbols.   
 The program can take mutliple pipe and multiple redirection.  
 The program sets the exit code to the correct one while executing command.
+
+Grade : 
+
+<img width="194" alt="Screen Shot 2022-06-22 at 11 28 03 AM" src="https://user-images.githubusercontent.com/107465256/174995077-f523c42e-174c-4042-a457-8c4fe26b5977.png">
+
