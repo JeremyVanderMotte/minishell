@@ -1,0 +1,6 @@
+.vscode/
+minishell.dSYM/
+.DS_Store
+README.md
+subject.pdf
+tester.sh
